@@ -1,0 +1,11 @@
+#vscode files
+.vscode/
+
+#virtual env
+venv/
+
+#database
+db.sqlite3
+
+#blog migrations
+blog/migrations/
